@@ -1,7 +1,7 @@
 # Cat and whale
 
 
-Java Spring + Postgres project
+Java  + Postgres project
 [Link at task](Task.md)
 
 ## Requirements
